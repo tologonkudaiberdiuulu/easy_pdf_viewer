@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="tologon.easy_pdf_viewer">
     <application
         android:label="easy_pdf_viewer"
         android:name="${applicationName}"
