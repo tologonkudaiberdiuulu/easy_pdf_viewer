@@ -1,4 +1,4 @@
-package dev.kaichi.easy_pdf_viewer;
+package tologon.easy_pdf_viewer;
 
 import android.annotation.SuppressLint;
 import android.os.Build;
